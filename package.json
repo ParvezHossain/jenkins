@@ -1,0 +1,23 @@
+{
+  "name": "playground",
+  "version": "1.0.0",
+  "description": "Just a simple file.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ParvezHossain/jenkins.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ParvezHossain/jenkins/issues"
+  },
+  "homepage": "https://github.com/ParvezHossain/jenkins#readme",
+  "keywords": [],
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
